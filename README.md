@@ -1,1 +1,2 @@
 # hedgedoc-config
+# hedgedoc-config
